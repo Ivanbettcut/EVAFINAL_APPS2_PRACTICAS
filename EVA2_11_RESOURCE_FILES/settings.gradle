@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EVA2_11_RESOURCE_FILES"

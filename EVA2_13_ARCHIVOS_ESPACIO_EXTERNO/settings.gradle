@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "EVA2_13_ARCHIVOS_ESPACIO_EXTERNO"
